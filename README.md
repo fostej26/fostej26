@@ -9,7 +9,7 @@
   - Playing soccer
   - Snowboarding
   - Golfing
- ### 🧑 If you want to know more about me:
+ ### 📬 If you want to know more about me:
   - [Resume](https://github.com/user-attachments/files/16249773/Jacob_Foster_Resume.pdf)
   - [LinkedIn](https://www.linkedin.com/in/jacobnfoster/)
   - [Email](mailto:fostej26@mcmaster.ca)
