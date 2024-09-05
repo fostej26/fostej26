@@ -5,10 +5,12 @@
   - Code in Python, C, C++, C#, HTML, CSS, JavaScript
   - Learn new skills (currently working on react.js)
   - CAD Design
+  - Play video games (Valorant)
  ### 🌳 When I'm offline I enjoy:
   - Playing soccer
   - Snowboarding
   - Golfing
+  - Play guitar
  ### 📬 If you want to know more about me:
   - [Resume](https://github.com/user-attachments/files/16249773/Jacob_Foster_Resume.pdf)
   - [LinkedIn](https://www.linkedin.com/in/jacobnfoster/)
