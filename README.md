@@ -5,7 +5,7 @@
   - Code in Python, C, C++, C#, HTML, CSS, JavaScript
   - Learn new skills (currently working on react.js)
   - CAD Design
-  - Play video games (Valorant)
+  - Play video games
  ### 🌳 When I'm offline I enjoy:
   - Playing soccer
   - Snowboarding
