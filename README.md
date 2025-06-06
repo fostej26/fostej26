@@ -1,7 +1,7 @@
  # 👋 Hi, I’m Jacob
  ### 📚 I just finished my third year of mechatronics engineering at McMaster University
  ### 🕹 Currently a Video Software Engineering Intern at AMD
- ### ⏳ Previously a manufacturing engineering intern at L3Harris Technologies
+ ### ⏳ Previously a Manufacturing Engineering Intern at L3Harris Technologies
  ### 💻 Things I do with my computer:
   - Code in Python, C, C++, C#, HTML, CSS, JavaScript
   - Learn new skills (currently working on react.js)
